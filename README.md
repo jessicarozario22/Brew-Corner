@@ -9,7 +9,7 @@ A responsive coffee shop landing page built with **HTML and CSS**.
 
 ## 📸 Project Preview
 
-![Brew Corner Website Preview](./screenshot.png)
+![Brew Corner Website Preview](Brew-Corner-09-03-2026_12_00_PM.png)
 
 ## 📖 Project Overview
 
